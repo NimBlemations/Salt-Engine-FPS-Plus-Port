@@ -1,5 +1,5 @@
 # Checklist
-This is so you can see planned changes I guess, and to *try* to live up to the license.
+This is so you can see planned changes I guess, and to *try* to uniquify this.
 The ones that are completed are striked out.
 
 ## Visual changes
@@ -17,3 +17,5 @@ The input is quite annoying when revolving around hold notes, it just doesn't wo
 I have to say that the long notes either weren't placed very well or **the input sucks**, some of the long notes drag over to the other notes, but I just have a problem with the long note going over to the *other* long note, so I want to change that.
 ### Redo jacks
 The jacks go up to I think about 6 notes, but the jacks feel off pattern.
+### Fix unhittable notes
+Some notes seem to be unhittable, I might need to check the .json files to verify that the unhittable notes are ones with endless numbers.
